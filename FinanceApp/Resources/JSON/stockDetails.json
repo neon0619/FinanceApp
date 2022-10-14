@@ -1,0 +1,270 @@
+{
+    "defaultKeyStatistics": {},
+    "summaryProfile": {
+        "companyOfficers": [],
+        "name": "Bitcoin",
+        "startDate": "2013-04-28",
+        "description": "Bitcoin (BTC) is a cryptocurrency . Users are able to generate BTC through the process of mining. Bitcoin has a current supply of 19,177,431. The last known price of Bitcoin is 19,154.783301 USD and is up 0.67 over the last 24 hours. It is currently trading on 9771 active market(s) with $25,399,412,694.66 traded over the last 24 hours. More information can be found at https://bitcoin.org/.",
+        "maxAge": 86400
+    },
+    "recommendationTrend": {},
+    "financialsTemplate": {},
+    "earnings": {},
+    "price": {
+        "quoteSourceName": "CoinMarketCap",
+        "regularMarketOpen": {
+            "raw": 19048.668,
+            "fmt": "19,048.67"
+        },
+        "averageDailyVolume3Month": {
+            "raw": 32036323053,
+            "fmt": "32.04B",
+            "longFmt": "32,036,323,053"
+        },
+        "exchange": "CCC",
+        "regularMarketTime": 1665612060,
+        "volume24Hr": {
+            "raw": 25277857792,
+            "fmt": "25.28B",
+            "longFmt": "25,277,857,792.00"
+        },
+        "regularMarketDayHigh": {
+            "raw": 19185.889,
+            "fmt": "19,185.89"
+        },
+        "shortName": "Bitcoin USD",
+        "averageDailyVolume10Day": {
+            "raw": 27371172381,
+            "fmt": "27.37B",
+            "longFmt": "27,371,172,381"
+        },
+        "longName": null,
+        "regularMarketChange": {
+            "raw": 163.23828,
+            "fmt": "163.24"
+        },
+        "currencySymbol": "$",
+        "regularMarketPreviousClose": {
+            "raw": 19048.668,
+            "fmt": "19,048.67"
+        },
+        "preMarketPrice": {},
+        "exchangeDataDelayedBy": 0,
+        "toCurrency": "USD=X",
+        "postMarketChange": {},
+        "postMarketPrice": {},
+        "exchangeName": "CCC",
+        "preMarketChange": {},
+        "circulatingSupply": {
+            "raw": 19177432,
+            "fmt": "19.18M",
+            "longFmt": "19,177,432.00"
+        },
+        "regularMarketDayLow": {
+            "raw": 19029.758,
+            "fmt": "19,029.76"
+        },
+        "priceHint": {
+            "raw": 2,
+            "fmt": "2",
+            "longFmt": "2"
+        },
+        "currency": "USD",
+        "regularMarketPrice": {
+            "raw": 19177.7,
+            "fmt": "19,177.70"
+        },
+        "regularMarketVolume": {
+            "raw": 25277857792,
+            "fmt": "25.28B",
+            "longFmt": "25,277,857,792.00"
+        },
+        "lastMarket": "CoinMarketCap",
+        "regularMarketSource": "FREE_REALTIME",
+        "openInterest": {},
+        "marketState": "REGULAR",
+        "underlyingSymbol": null,
+        "marketCap": {
+            "raw": 367778988032,
+            "fmt": "367.78B",
+            "longFmt": "367,778,988,032.00"
+        },
+        "quoteType": "CRYPTOCURRENCY",
+        "volumeAllCurrencies": {
+            "raw": 25277857792,
+            "fmt": "25.28B",
+            "longFmt": "25,277,857,792.00"
+        },
+        "strikePrice": {},
+        "symbol": "BTC-USD",
+        "maxAge": 1,
+        "fromCurrency": "BTC",
+        "regularMarketChangePercent": {
+            "raw": 0.008584937,
+            "fmt": "0.86%"
+        }
+    },
+    "financialData": {},
+    "quoteType": {
+        "exchange": "CCC",
+        "shortName": "Bitcoin USD",
+        "exchangeTimezoneName": "UTC",
+        "exchangeTimezoneShortName": "UTC",
+        "isEsgPopulated": false,
+        "gmtOffSetMilliseconds": "0",
+        "quoteType": "CRYPTOCURRENCY",
+        "symbol": "BTC-USD",
+        "messageBoardId": "finmb_BTC_CCC",
+        "market": "ccc_market"
+    },
+    "calendarEvents": {},
+    "summaryDetail": {
+        "previousClose": {
+            "raw": 19048.668,
+            "fmt": "19,048.67"
+        },
+        "regularMarketOpen": {
+            "raw": 19048.668,
+            "fmt": "19,048.67"
+        },
+        "twoHundredDayAverage": {
+            "raw": 27031.129,
+            "fmt": "27,031.13"
+        },
+        "trailingAnnualDividendYield": {},
+        "payoutRatio": {},
+        "volume24Hr": {
+            "raw": 25277857792,
+            "fmt": "25.28B",
+            "longFmt": "25,277,857,792.00"
+        },
+        "regularMarketDayHigh": {
+            "raw": 19185.889,
+            "fmt": "19,185.89"
+        },
+        "navPrice": {},
+        "averageDailyVolume10Day": {
+            "raw": 27371172381,
+            "fmt": "27.37B",
+            "longFmt": "27,371,172,381"
+        },
+        "totalAssets": {},
+        "regularMarketPreviousClose": {
+            "raw": 19048.668,
+            "fmt": "19,048.67"
+        },
+        "fiftyDayAverage": {
+            "raw": 19875.32,
+            "fmt": "19,875.32"
+        },
+        "trailingAnnualDividendRate": {},
+        "open": {
+            "raw": 19048.668,
+            "fmt": "19,048.67"
+        },
+        "toCurrency": "USD=X",
+        "averageVolume10days": {
+            "raw": 27371172381,
+            "fmt": "27.37B",
+            "longFmt": "27,371,172,381"
+        },
+        "expireDate": {},
+        "yield": {},
+        "algorithm": null,
+        "dividendRate": {},
+        "exDividendDate": {},
+        "beta": {},
+        "circulatingSupply": {
+            "raw": 19177432,
+            "fmt": "19.18M",
+            "longFmt": "19,177,432.00"
+        },
+        "startDate": {
+            "raw": 1367107200,
+            "fmt": "2013-04-28"
+        },
+        "regularMarketDayLow": {
+            "raw": 19029.758,
+            "fmt": "19,029.76"
+        },
+        "priceHint": {
+            "raw": 2,
+            "fmt": "2",
+            "longFmt": "2"
+        },
+        "currency": "USD",
+        "regularMarketVolume": {
+            "raw": 25277857792,
+            "fmt": "25.28B",
+            "longFmt": "25,277,857,792"
+        },
+        "lastMarket": "CoinMarketCap",
+        "maxSupply": {},
+        "openInterest": {},
+        "marketCap": {
+            "raw": 367778988032,
+            "fmt": "367.78B",
+            "longFmt": "367,778,988,032"
+        },
+        "volumeAllCurrencies": {
+            "raw": 25277857792,
+            "fmt": "25.28B",
+            "longFmt": "25,277,857,792.00"
+        },
+        "strikePrice": {},
+        "averageVolume": {
+            "raw": 32036323053,
+            "fmt": "32.04B",
+            "longFmt": "32,036,323,053"
+        },
+        "priceToSalesTrailing12Months": {},
+        "dayLow": {
+            "raw": 19029.758,
+            "fmt": "19,029.76"
+        },
+        "ask": {},
+        "ytdReturn": {},
+        "askSize": {},
+        "volume": {
+            "raw": 25277857792,
+            "fmt": "25.28B",
+            "longFmt": "25,277,857,792"
+        },
+        "fiftyTwoWeekHigh": {
+            "raw": 68789.625,
+            "fmt": "68,789.62"
+        },
+        "forwardPE": {},
+        "maxAge": 1,
+        "fromCurrency": "BTC",
+        "fiveYearAvgDividendYield": {},
+        "fiftyTwoWeekLow": {
+            "raw": 17708.623,
+            "fmt": "17,708.62"
+        },
+        "bid": {},
+        "tradeable": false,
+        "dividendYield": {},
+        "bidSize": {},
+        "dayHigh": {
+            "raw": 19185.889,
+            "fmt": "19,185.89"
+        },
+        "coinMarketCapLink": "https://coinmarketcap.com/currencies/bitcoin"
+    },
+    "symbol": "BTC-USD",
+    "assetProfile": {
+        "companyOfficers": [],
+        "name": "Bitcoin",
+        "startDate": "2013-04-28",
+        "description": "Bitcoin (BTC) is a cryptocurrency . Users are able to generate BTC through the process of mining. Bitcoin has a current supply of 19,177,431. The last known price of Bitcoin is 19,154.783301 USD and is up 0.67 over the last 24 hours. It is currently trading on 9771 active market(s) with $25,399,412,694.66 traded over the last 24 hours. More information can be found at https://bitcoin.org/.",
+        "maxAge": 86400
+    },
+    "upgradeDowngradeHistory": {},
+    "pageViews": {
+        "shortTermTrend": "UP",
+        "midTermTrend": "UP",
+        "longTermTrend": "UP",
+        "maxAge": 1
+    }
+}
